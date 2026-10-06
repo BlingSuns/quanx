@@ -1,0 +1,2 @@
+# QuantulmultX
+Scripts for QuantumultX
